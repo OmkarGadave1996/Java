@@ -4,6 +4,7 @@ class Object
 	int a,b;
 	Object(int x, int y)
 	{
+		// method variable assign to class variable thats why display method is excuted
 		a = x;
 		b = y; 
 	}
