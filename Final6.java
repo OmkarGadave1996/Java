@@ -11,7 +11,7 @@ class Final6 implements printable
 	}
 	public static void main(String[] args)
 	{
-		A6 a = new A6();
+		Final6 a = new Final6();
 		a.print();
 	}
 }
